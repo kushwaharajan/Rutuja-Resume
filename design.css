@@ -12658,6 +12658,7 @@ p.lead {
 #sideNav {
     padding-left: 1rem;
     padding-right: 1rem;
+    background-color: rgb(165, 224, 133);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
